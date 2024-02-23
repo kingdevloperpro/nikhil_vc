@@ -1,0 +1,4 @@
+rootProject.name = "nikhil vc"
+include ':app'
+include ':ssdddd'
+include ':esssss'
